@@ -121,9 +121,6 @@
 [submodule "bundle/vimColors"]
 	path = bundle/vimColors
 	url = https://github.com/jyota/vimColors
-[submodule "bundle/vimColors"]
-	path = bundle/vimColors
-	url = https://github.com/jyota/vimColors
 [submodule "bundle/yaml.vim.git"]
 	path = bundle/yaml.vim.git
 	url = git@github.com:roalddevries/yaml.vim.git
